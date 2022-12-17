@@ -1,4 +1,4 @@
- Dockerfile 
+  Dockerfile 
  ---
 ---
 1. FROM python:3.10  *(выбор образа)*
@@ -18,6 +18,9 @@
 - ENTRYPOINT ['python', 'main.py'] (без shell)
 ---
 запустить requirements.txt (pip install -r requirements.txt)
+
+
+          
 
 
 
